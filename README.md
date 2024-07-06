@@ -46,8 +46,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MarioMarroquin19/MarioMarroquin19/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDExcTY1MGtjeTByMWNpYWJidTJ5a2VuZDU5aDM1eTRxZmtzMnBjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif"  />
+</div>
 
 ###

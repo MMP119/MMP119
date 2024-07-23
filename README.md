@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDExcTY1MGtjeTByMWNpYWJidTJ5a2VuZDU5aDM1eTRxZmtzMnBjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" />
+</div>
+
+###
+
 <h1 align="center">Hi 👋! I'm Mario</h1>
 
 ###
@@ -51,13 +57,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarioMarroquin19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=MarioMarroquin19&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarioMarroquin19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDExcTY1MGtjeTByMWNpYWJidTJ5a2VuZDU5aDM1eTRxZmtzMnBjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" />
-</div>
-

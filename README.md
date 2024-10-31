@@ -147,8 +147,8 @@
 
 ### 📊 Stats:
 <div align="center">
-  <img src="https://github-readme
--stats.vercel.app/api?username=MMP119&theme=dark&show_icons=true&count_private=true" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MMP119&layout=compact&langs_count=5&theme=dark" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MMP119&theme=dark&show_icons=true&count_private=true" height="150" alt="stats graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MMP119&layout=compact&langs_count=5&theme=dark" height="150" alt="languages graph" />
 </div> 
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/MMP119/MMP119/output/snake.svg" alt="Snake animation" /> 

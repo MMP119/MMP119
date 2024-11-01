@@ -56,7 +56,7 @@
 ### 📚 Frameworks:
 <p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django3.svg" height="30"/>
-  <img src="  https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg" height="30"/>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg" height="30"/>
 </p>
 
 ###

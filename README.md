@@ -14,7 +14,7 @@
 ### 🔗 Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/mario19" target="blank">
-    <img align="center" src="  https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="mario19" width="140" />
+    <img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="mario19" width="140" />
   </a>
   <a href="https://instagram.com/mario_mp19" target="blank">
     <img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg" alt="mario_mp19" width="140" />

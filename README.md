@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Mario</h1>
-<h3 align="center">🚀 Software developer in training as an engineer. Experienced in programming, electronics, and IoT projects.</h3>
+<h3>🚀 Software developer in training as an engineer. Experienced in programming, electronics, and IoT projects.</h3>
 
 - 🏫 I’m studying at Universidad de San Carlos de Guatemala.
 - 📚 Currently learning **VueJS**  
